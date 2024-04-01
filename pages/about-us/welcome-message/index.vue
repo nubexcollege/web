@@ -4,9 +4,9 @@
 
     <div class="flex flex-col space-y-4 mt-4 font-thin">
       <p>
-        Welcome to and our international community. We offer a wide range of
-        courses that transform our students to be job-ready and are given access
-        to many job opportunities here in Australia.
+        Welcome to and our community. We offer a wide range of courses that
+        transform our students to be job-ready and are given access to many job
+        opportunities here in Australia.
       </p>
 
       <p>
@@ -35,8 +35,8 @@
 
       <p>
         Now that restrictions are being lifted and the world adjusts to the new
-        normal, Nubex College has opened its campuses to international students
-        from all over the world.
+        normal, Nubex College has opened its campuses to students from all over
+        the country.
       </p>
 
       <p>
