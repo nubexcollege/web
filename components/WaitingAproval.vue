@@ -38,9 +38,9 @@ const emit = defineEmits<{
         {{ title }}
       </h1>
       <p class="text-sm font-light">
-        Thank you for your interest! We're currently awaiting approval. Once
-        it's been processed we will be able to provide more details. Your
-        patience is appreciated!
+        Thank you for your interest! We're currently awaiting for approval for
+        our application for VET registration. Once it's been processed we will
+        be able to provide more details. Your patience is appreciated!
       </p>
       <button class="btn btn-sm btn-neutral w-[100px]" @click="emit('confirm')">
         {{ confirmBtnText }}

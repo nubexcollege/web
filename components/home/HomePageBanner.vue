@@ -40,7 +40,7 @@
   </div>
   <WaitingAproval
     v-model="show"
-    title="Waiting for approval!"
+    title="Waiting for approval for our application for VET registration."
     @confirm="show = false"
     confirm-btn-text="Close"
   />
