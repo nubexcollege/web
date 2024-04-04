@@ -8,7 +8,10 @@
       2023-2024 Intake Date:
     </span>
 
-    <p class="my-5">Dates will be published on approval.</p>
+    <p class="my-5">
+      Dates will be published on approval of our application for VET
+      registration.
+    </p>
 
     <div class="grid grid-cols-4" v-if="false">
       <div class="col-span-1 text-sm" v-for="i in 4" :key="i">
