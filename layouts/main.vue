@@ -16,10 +16,11 @@
   </Html>
   <Body class="w-full h-full">
     <main class="w-full min-h-[800px]">
+      <PageDefaultLinks />
       <PageNavBar />
-
       <slot></slot>
     </main>
+    <Footer />
   </Body>
 </template>
 

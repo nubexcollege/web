@@ -4,7 +4,7 @@
       class="max-w-5xl w-full flex flex-row justify-between items-center mx-auto"
     >
       <img src="~/assets/nubex_logo.png" :width="90" alt="Nubex College" />
-      <div class="flex flex-row">
+      <div class="flex flex-row" v-if="false">
         <div class="flex-none">
           <ul class="menu menu-horizontal p-0">
             <li
